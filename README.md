@@ -20,4 +20,8 @@
 python ai_meeting_summarizer.py meeting.txt
 ```
 ## 📝　入力例
+![output1]()
+![output2]()
 
+## 📂  出力例
+![input](https://github.com/user-attachments/assets/87c5c336-466e-4007-8da8-a220cd40e0a6)
